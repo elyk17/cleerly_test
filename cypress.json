@@ -1,0 +1,6 @@
+{
+    "baseURL" : "https://api.github.com",
+    "env" : {
+        "issues_num" : 0
+    }
+}
